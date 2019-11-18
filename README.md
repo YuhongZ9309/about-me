@@ -4,15 +4,14 @@ Email: yuhongz9309@hstat.org
 *I am a Junior and currently taking 3 AP classes.*  
 [Link to portfolio](https://yuhongz9309.github.io/)
 
-List of favorite things:  
+#### List of favorite things:  
 * Colors:
     * Green
 * Animals:
     * Panda
 * Classes:
-    * Lunch
-Schedule:  
-======
+    * Lunch  
+#### Schedule:
 
 1. Spanish 5
 2. US History
