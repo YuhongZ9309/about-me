@@ -7,12 +7,12 @@ Email: yuhongz9309@hstat.org
 Schedule:  
 ======
 
-* Spanish 5
-* US History
-* SEP
-* AP English
-* AP Calculus
-* Lunch
-* AP Chemistry
-* Gym
+1. Spanish 5
+2. US History
+3. SEP
+4. AP English
+5. AP Calculus
+6. Lunch
+7. AP Chemistry
+8. Gym
 
